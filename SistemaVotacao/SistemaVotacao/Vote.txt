@@ -1,0 +1,11 @@
+23/08/2018;pedro;Sabor Caseiro
+24/08/2018;pedro;Atelie do Sabor
+25/08/2018;pedro;Atelie do Sabor
+26/08/2018;pedro;Cia Comida
+27/08/2018;pedro;TelePizza
+22/08/2018;ana;Sabor Caseiro
+23/08/2018;ana;Atelie do Sabor
+27/08/2018;ana;TelePizza
+24/08/2018;joao;TelePizza
+23/08/2018;joao;Atelie do Sabor
+23/08/2018;maria;TelePizza

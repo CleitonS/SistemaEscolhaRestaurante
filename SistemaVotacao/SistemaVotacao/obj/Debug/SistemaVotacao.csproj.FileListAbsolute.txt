@@ -1,0 +1,12 @@
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\bin\Debug\SistemaVotacao.exe.config
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\bin\Debug\SistemaVotacao.exe
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\bin\Debug\SistemaVotacao.pdb
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.csprojAssemblyReference.cache
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.Properties.Resources.resources
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.csproj.GenerateResource.cache
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.csproj.CoreCompileInputs.cache
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.exe
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.pdb
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.CreateUser.resources
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.Login.resources
+C:\Users\Cleiton\Desktop\DbServer\SistemaVotacao\SistemaVotacao\obj\Debug\SistemaVotacao.View.MySession.resources
