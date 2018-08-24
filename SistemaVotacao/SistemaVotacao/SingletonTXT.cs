@@ -91,7 +91,7 @@ namespace SistemaVotacao
                 register = arqOpen.ReadLine().Split(';');
                 if (string.Equals(register[0], date.ToString("dd/MM/yyyy")))
                 {
-                    if (string.IsNullOrEmpty(user.Find(element => element.Contains(register[1]))))
+                    if (string.IsNullOrEmpty(user.Find(element => element.Equals(register[1]))))
                         user.Add(register[1]);
                 }
             }
@@ -108,7 +108,7 @@ namespace SistemaVotacao
             while (!arqOpen.EndOfStream)
             {
                 register = arqOpen.ReadLine().Split(';');
-                if (string.IsNullOrEmpty(restaurant.Find(element => element.Contains(register[2]))))
+                if (string.IsNullOrEmpty(restaurant.Find(element => element.Equals(register[2]))))
                     restaurant.Add(register[2]);
             }
             arqOpen.Close();
